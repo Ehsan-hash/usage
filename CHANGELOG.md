@@ -1,5 +1,19 @@
 # Changelog
 
+## [7.0.2](https://github.com/jdx/usage/compare/v7.0.1..v7.0.2) - 2026-10-16
+
+### 🐛 Bug Fixes
+
+- **(complete)** read .<script>.usage.kdl sidecar when completing scripts by [@jdx](https://github.com/jdx) in [#1558](https://github.com/jdx/usage/pull/1558)
+
+### 🛡️ Security
+
+- replace prettier with oxfmt by [@jdx](https://github.com/jdx) in [#1560](https://github.com/jdx/usage/pull/1560)
+
+### 🔍 Other Changes
+
+- **(release)** shorten minimum release age to 2 days by [@jdx](https://github.com/jdx) in [52b1b78](https://github.com/jdx/usage/commit/52b1b7874590f2e6d5becaa86d0395647dce7991)
+
 ## [7.0.1](https://github.com/jdx/usage/compare/v7.0.0..v7.0.1) - 2026-10-14
 
 ### 📚 Documentation
